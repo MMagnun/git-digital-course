@@ -1,3 +1,3 @@
-# git-digital-course
+# Curso Digital: Git/versionamento
 
-Revisão de Git e GitHub com Santander Coders
+## Gravando mudanças no repositório GitHub
