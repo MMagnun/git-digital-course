@@ -12,7 +12,7 @@ Comando Git Restore
 O comando "git restore" serve para reverter uma alteração feita. Ele deve ser utilizado diretamente em cima da modificação realizada. 
 Ex.: Adicionei uma alteração e salvei. Após isso inseri uma nova alteração e salvei novamente, mas percebi que ela era desnecesária ou não adequada para o tema. 
 
-Comando
+
 
 
 
